@@ -1,2 +1,2 @@
-# redshift Multiple object sequence exporter
+# Redshift multiple Proxy object sequence exporter
 ---

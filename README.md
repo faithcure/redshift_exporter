@@ -1,1 +1,2 @@
-# redshift_exporter
+# redshift Multiple object sequence exporter
+---
